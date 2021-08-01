@@ -1,21 +1,20 @@
 # Ant-road
 
-Ants learn to find two points thanks to pheromona.
+Ants learn to find 2 points thanks to their pheromones.
 
 
 
 ![VID_20210802_001626 1](https://user-images.githubusercontent.com/54853371/127787128-615c3fdc-50ac-4a92-9c12-7586673a2cf3.gif)
 
-Random movement and search a recompense.
+At first the ants make random movements. And leave a mark behind them. We save the 5 boxes behind the saddle.
 
 ![b](https://user-images.githubusercontent.com/54853371/127787161-f6300ef1-426b-4f60-94eb-54a77242bc59.gif)
 
 
-Save some case behind her
+As soon as they find a reward, we score the tracks, boxes behind it.
 
-If they found recompense score the road
+If another ants finds a route scored, it in turn scores its route.
 
-if one other found the trace, she's scoring her road
 
 ![c](https://user-images.githubusercontent.com/54853371/127787174-6c31b116-4bde-4ec5-825a-a37f51ae35ee.gif)
 
