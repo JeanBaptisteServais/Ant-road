@@ -20,4 +20,3 @@ If another ants finds a route scored, it in turn scores its route.
 
 Same but for return to their homes
 
-Sometimes, they make circles between them, but I did not understand.
