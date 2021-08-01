@@ -1,6 +1,6 @@
 # Ant-road
 
-Ants learn to find two points.
+Ants learn to find two points thanks to pheromona.
 
 
 
